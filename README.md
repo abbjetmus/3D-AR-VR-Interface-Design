@@ -2,7 +2,7 @@
 
 Välkommen till kursen Gränsnittsdesign där vi kommer få lära oss att bygga användarupplevelser på den allra tekniska framkanten.
 
-# Table of Contents
+# Kursinnehåll
 1. [Example](#example)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
