@@ -7,13 +7,14 @@ Kolla på den här videon genom att klicka på bilden.<br>
 
 
 # Kursinnehåll
-1. [Example](#example)
+1. [Unity Essentials](#unity-essentials)
 2. [Example2](#example2)
 3. [Third Example](#third-example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
 
-## Example
+## Unity Essentials
+Gå igenom kursen/avsnittet Unity Essentials på Unity Learning.
 ## Example2
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
