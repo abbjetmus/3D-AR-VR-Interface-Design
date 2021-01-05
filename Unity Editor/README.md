@@ -35,3 +35,24 @@ We recommend you use the default layout while completing this course.
 Projects in Unity Editor are organized into **Scenes**. Scenes are containers for everything in the experience you are creating.<br><br>
 One way to think about Scenes is as discrete experiences. For example, each level in a game could be a separate Scene, and the game’s main menu could be another.<br><br>
 A Unity project can have one Scene or more than a hundred, depending on its scope and complexity. There aren’t strict rules about exactly how you should organize a Unity project into Scenes, except that a project in Unity must have at least one Scene.
+
+## Navigating the Scene
+When working in Scenes, you’ll want to navigate the Scene view easily. Navigating the Scene is like operating a drone camera — it lets you examine your GameObjects from any angle or distance.<br><br>
+In the Microgame, you navigated your Scene by changing position, angle, and zoom of the Scene view.  With practice, you can learn to navigate with ease. There are also more general settings you can use to configure the Scene view.<br><br> 
+Let’s quickly review the basics:
+* **Pan:** Select the Hand tool in the Toolbar, and click and drag in the Scene view to move your view.
+
+* **Zoom:** Holding Alt (Windows) or Option (macOS), right-click and drag in the Scene view to zoom.
+
+* **Orbit:** Holding Alt (Windows) or Option (macOS),  left-click and drag to orbit around the current pivot point. Note: this option is not available in 2D mode.
+
+* **Focus (Frame Select):** When a GameObject is selected, select **F** with your cursor in the Scene view to focus your view on that GameObject. Note: if your cursor is not in the Scene view, Frame Select will not work.
+<br><br>
+
+You can also use Flythrough mode to navigate in the Scene view by flying around in first person, which is common in many games. To do this:<br><br>
+* Click and hold the right mouse button.
+* Use **WASD** to move the view left/right/forward/backward.
+* Use **Q** and **E** to move the view up and down.
+* Select and hold **Shift** to move faster.
+<br><br>
+Note: Flythrough mode is not available in 2D mode. Instead, holding the right mouse button down while moving the cursor pans around the Scene view.
