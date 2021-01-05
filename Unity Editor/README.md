@@ -25,9 +25,7 @@ The Toolbar is always at the top of the Unity Editor interface. Use the toolbar 
 ## Editor layouts
 Use the **Layout** menu in the Toolbar to change the arrangement of the windows in the Editor. There are several layouts provided, and you can save your own layouts.<br><br>
 The best layout for the Editor depends on what you are doing and your own personal preferences. For example:<br>
-* If you’re spending a lot of time configuring components, you might want to dock the Inspector next to the Hierarchy. <br>
-* If you’re doing a lot of environment design, you might want to make the Scene view as large as possible.
-<br>
-* If you’re editing the user interface, you’ll want to make sure the Game view is visible. 
-<br>
+* If you’re spending a lot of time configuring components, you might want to dock the Inspector next to the Hierarchy.<br>
+* If you’re doing a lot of environment design, you might want to make the Scene view as large as possible.<br>
+* If you’re editing the user interface, you’ll want to make sure the Game view is visible.<br>
 We recommend you use the default layout while completing this course.
