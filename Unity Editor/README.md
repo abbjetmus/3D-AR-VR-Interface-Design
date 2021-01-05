@@ -28,4 +28,5 @@ The best layout for the Editor depends on what you are doing and your own person
 * If you’re spending a lot of time configuring components, you might want to dock the Inspector next to the Hierarchy.<br>
 * If you’re doing a lot of environment design, you might want to make the Scene view as large as possible.<br>
 * If you’re editing the user interface, you’ll want to make sure the Game view is visible.<br>
+
 We recommend you use the default layout while completing this course.
