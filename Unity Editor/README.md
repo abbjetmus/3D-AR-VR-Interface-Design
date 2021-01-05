@@ -53,6 +53,7 @@ You can also use Flythrough mode to navigate in the Scene view by flying around 
 * Click and hold the right mouse button.
 * Use **WASD** to move the view left/right/forward/backward.
 * Use **Q** and **E** to move the view up and down.
-* Select and hold **Shift** to move faster.
-<br><br>
+* Select and hold **Shift** to move faster.<br><br>
+
+
 Note: Flythrough mode is not available in 2D mode. Instead, holding the right mouse button down while moving the cursor pans around the Scene view.
