@@ -2,7 +2,8 @@
 
 Välkommen till kursen Gränsnittsdesign där vi kommer få lära oss att bygga användarupplevelser på den allra tekniska framkanten.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CPD_nRLDN7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Kolla på den här videon](https://img.youtube.com/watch?v=CPD_nRLDN7g/maxresdefault.jpg)](https://www.youtube.com/watch?v=CPD_nRLDN7g)
+
 
 # Kursinnehåll
 1. [Example](#example)
