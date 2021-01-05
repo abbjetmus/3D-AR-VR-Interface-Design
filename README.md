@@ -3,6 +3,7 @@
 Välkommen till kursen Gränsnittsdesign där vi kommer få lära oss att bygga användarupplevelser på den allra tekniska framkanten.
 
 [![Kolla på den här videon](https://img.youtube.com/watch?v=CPD_nRLDN7g/maxresdefault.jpg)](https://www.youtube.com/watch?v=CPD_nRLDN7g)
+[<img src="https://img.youtube.com/vi/CPD_nRLDN7g/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=CPD_nRLDN7g)
 
 
 # Kursinnehåll
