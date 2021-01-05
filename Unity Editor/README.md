@@ -30,3 +30,8 @@ The best layout for the Editor depends on what you are doing and your own person
 * If you’re editing the user interface, you’ll want to make sure the Game view is visible.<br>
 
 We recommend you use the default layout while completing this course.
+
+## More about scenes
+Projects in Unity Editor are organized into **Scenes**. Scenes are containers for everything in the experience you are creating.<br><br>
+One way to think about Scenes is as discrete experiences. For example, each level in a game could be a separate Scene, and the game’s main menu could be another.<br><br>
+A Unity project can have one Scene or more than a hundred, depending on its scope and complexity. There aren’t strict rules about exactly how you should organize a Unity project into Scenes, except that a project in Unity must have at least one Scene.
