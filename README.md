@@ -11,15 +11,19 @@ Kolla på den här videon genom att klicka på bilden.<br>
 2. [Sätta upp och gå igenom utvecklingsmiljöer](#development-environments)
 3. [Grunderna i Unity och Unity Learning](#unity-basics)
 4. [Gemensamma minikurser på Unity Learning](#common-courses)
-4. [Introduktion till programmeringsspråket C#](#c-sharp-introduktion)
-5. [Object Orienterad Programmering med C#](#oop)
-5. [Val av specialiseringsområde 3D Spel, AR eller VR](#unity-specialization)
-5. [Genomgå minikurser inom specialområde](#specialization-courses)
-5. [Slutprojekt inom specialområde](#final-projekt)
+5. [Introduktion till programmeringsspråket C#](#c-sharp-introduction)
+6. [Object Orienterad Programmering med C#](#oop)
+7. [Val av specialiseringsområde 3D Spel, AR eller VR](#unity-specialization)
+8. [Genomgå minikurser inom specialområde](#specialization-courses)
+9. [Slutprojekt inom specialområde](#final-project)
 
 
 ## Introduktion till 3D, AR, VR och Unity <a name="unity-introduction"></a>
 Gå igenom kursen/avsnittet Unity Essentials på Unity Learning.
 ## Sätta upp och gå igenom utvecklingsmiljöer <a name="development-environments"></a>
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
+## Grunderna i Unity och Unity Learning <a name="development-environments"></a>
+## Introduktion till programmeringsspråket C# <a name="c-sharp-introduction"></a>
+## Object Orienterad Programmering med C# <a name="oop"></a>
+## Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
+## Genomgå minikurser inom specialområde <a name="specialization-courses"></a>
+## Slutprojekt inom specialområde <a name="final-project"></a>
