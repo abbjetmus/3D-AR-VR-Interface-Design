@@ -7,7 +7,7 @@ Kolla på den här videon genom att klicka på bilden.<br>
 
 
 # Kursinnehåll
-1. [Introduktion till 3D, AR, VR och Unity](#unity-introduktion)
+1. [Introduktion till 3D, AR, VR och Unity](#unity-introduction)
 2. [Sätta upp och gå igenom utvecklingsmiljöer](#development-environments)
 3. [Grunderna i Unity och Unity Learning](#unity-basics)
 4. [Gemensamma minikurser på Unity Learning](#common-courses)
@@ -18,8 +18,8 @@ Kolla på den här videon genom att klicka på bilden.<br>
 5. [Slutprojekt inom specialområde](#final-projekt)
 
 
-## Unity Essentials
+## Introduktion till 3D, AR, VR och Unity <a name="unity-introduction"></a>
 Gå igenom kursen/avsnittet Unity Essentials på Unity Learning.
-## Example2
+## Sätta upp och gå igenom utvecklingsmiljöer <a name="development-environments"></a>
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
