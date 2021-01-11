@@ -41,7 +41,7 @@ Microsoft HoloLens är ett exempel på en förstärkt verklighet-enhet.<br>
 Ett antal spel till smartphones använder förstärkt verklighet, bland annat Pokémon Go och Ingress.
 
 ### VR - Virtual Reality
-Virtuell verklighet *(engelska: Virtual reality – VR; även datorsimulerad verklighet eller immersive multimedia)* är datateknik som simulerar verkliga eller inbillade miljöer och vår närvaro och interaktion i dem.<br><br>
+Virtuell verklighet *(engelska: Virtual reality – VR; även datorsimulerad verklighet eller immersive multimedia)* är datateknik som simulerar verkliga eller inbillade miljöer och vår närvaro och interaktion i dem.<br>
 
 Till exempel kan man uppleva VR med VR-glasögon som i realtid visar bilder av en datorbaserad modell av miljön. VR-glasögonen känner av åt vilket håll man riktar blicken, och visar då bilder av modellen i motsvarande riktning. Det innebär att man kan betrakta modellen från olika håll genom att t ex vrida eller luta på huvudet.<br>
 
