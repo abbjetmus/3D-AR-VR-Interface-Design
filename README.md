@@ -22,7 +22,7 @@ Idag kan man använda Unity till att utveckla alla möjliga typer att upplevelse
 9. [Slutprojekt inom specialområde](#final-project)
 
 
-## Introduktion till 3D, AR, VR och Unity <a name="unity-introduction"></a>
+## 1.Introduktion till 3D, AR, VR och Unity <a name="unity-introduction"></a>
 ### 3D
 **3D**, en förkortning för tredimensionell, är det rumsperspektiv där längd, bredd och djup uppfattas. Med tredimensionell, menas att ett objekt eller en matematisk figur har tre dimensioner, som är ett område i höjd, bredd och djup. Därmed har tredimensionella kroppar en volym.<br>
 
@@ -47,10 +47,10 @@ Till exempel kan man uppleva VR med VR-glasögon som i realtid visar bilder av e
 
 Illusionen av verklighet i VR frammanas dels av den kroppsliga interaktionen med en virtuell modell, och dels av att ljus, ljud, rörelser med mera som simuleras av modellen känns igen från verkliga miljöer. De sensoriska upplevelserna (det vill säga för syn, känsel, hörsel och lukt) är i vissa fall tillräckliga för användning inom undervisning och träning av bland andra soldater, piloter och kirurger.
 
-## Sätta upp och gå igenom utvecklingsmiljöer <a name="development-environments"></a>
-## Grunderna i Unity och Unity Learning <a name="development-environments"></a>
-## Introduktion till programmeringsspråket C# <a name="c-sharp-introduction"></a>
-## Object Orienterad Programmering med C# <a name="oop"></a>
-## Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
-## Genomgå minikurser inom specialområde <a name="specialization-courses"></a>
-## Slutprojekt inom specialområde <a name="final-project"></a>
+## 2. Sätta upp och gå igenom utvecklingsmiljöer <a name="development-environments"></a>
+## 3. Grunderna i Unity och Unity Learning <a name="development-environments"></a>
+## 4. Introduktion till programmeringsspråket C# <a name="c-sharp-introduction"></a>
+## 5. Object Orienterad Programmering med C# <a name="oop"></a>
+## 6. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
+## 7. Genomgå minikurser inom specialområde <a name="specialization-courses"></a>
+## 8. Slutprojekt inom specialområde <a name="final-project"></a>
