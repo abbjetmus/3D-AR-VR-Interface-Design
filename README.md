@@ -72,11 +72,15 @@ C# används för:
 <br>
 Därför behöver vi lära oss C#.
 De resurser vi kommer använda är denna för språket:<br>
-[w3schools](https://www.w3schools.com/cs/default.asp)
+
+<https://www.w3schools.com/cs/default.asp>
+
 Och denna för övningsuppgifter:<br>
-[exercisescsharp](https://www.exercisescsharp.com/)
+<https://www.exercisescsharp.com/>
+
 Eftersom vi inte har fått upp våra utvecklingsmiljöer så kommer vi öva i en editor på nätet:<br>
-[dotnetfiddle](https://dotnetfiddle.net/)
+<https://dotnetfiddle.net/>
+
 ## 5. Object Orienterad Programmering med C# <a name="oop"></a>
 
 ## 6. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
