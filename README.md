@@ -60,18 +60,23 @@ Den första versionen släpptes år 2002. Den senaste versionen, C# 8 , släppte
 
 C# används för:
 
-* Mobila applikationer
-* Skrivbordsapplikationer
-* Webbapplikationer
-* webbservice
-* Webbplatser
-* Spel
-* VR
-* Databasapplikationer
-* Och mycket, mycket mer!
-
+* **Mobila applikationer**
+* **Skrivbordsapplikationer**
+* **Webbapplikationer**
+* **webbservice**
+* **Webbplatser**
+* **Spel**
+* **AR - VR**
+* **Databasapplikationer**
+* **Och mycket, mycket mer!**
+<br>
+Därför behöver vi lära oss C#.
+De resurser vi kommer använda är denna för språket:<br>
 <https://www.w3schools.com/cs/default.asp>
+Och denna för övningsuppgifter:<br>
 <https://www.exercisescsharp.com/>
+Eftersom vi inte har fått upp våra utvecklingsmiljöer så kommer vi öva i en editor på nätet:<br>
+<https://dotnetfiddle.net/>
 ## 5. Object Orienterad Programmering med C# <a name="oop"></a>
 
 ## 6. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
