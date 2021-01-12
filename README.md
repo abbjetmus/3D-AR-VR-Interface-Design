@@ -82,6 +82,18 @@ Eftersom vi inte har fått upp våra utvecklingsmiljöer så kommer vi öva i en
 <https://dotnetfiddle.net/>
 
 ## 5. Object Orienterad Programmering med C# <a name="oop"></a>
+Objektorienterad programmering betonar följande begrepp:
+
+* **Klass**<br> 
+Programmet byggs upp av delar, klasser, efter de begrepp som hanteras. Varje klass är en abstraktion av ett sådant begrepp, och innehåller både information och funktionalitet. Programmet kan ses som en uppsättning samverkande och interagerande objekt som vart och ett är av en viss typ/sort, de tillhör en viss klass.<br><br>
+* **Inkapsling**<br> 
+Ett objekts exakta beteende och funktion är dold för omvärlden. Varje klass är en abstraktion och visar ett gränssnitt mot omvärlden som specificerar hur andra klasser får interagera med den. Detta garanterar att alla förändringar av ett objekt sker genom programkod som tillhör objektets klass. Ett visst objekt kan inte påverka ett annat objekt på annat sätt än genom detta objekts gränssnitt.<br><br>
+
+* **Arv**<br>
+Klasserna och begreppen är inte oberoende av varandra, utan kan i många fall ses som en kedja av sammanhängande begrepp, där vissa begrepp är allmänna och generella, medan andra är specialfall av de allmänna begreppen. Till exempel kan ett programsystem inom bankvärlden hantera det allmänna begreppet/klassen konto, men även specialfall som inlåningskonto, lönekonto, konto med kreditmöjlighet o.s.v. På så sätt tillhör ett visst objekt inte bara en klass utan en hierarki av klasser med ökande abstraktionsgrad. Funktionalitet som är gemensam för alla specialfallen, programmeras i den gemensamma "överklassen" och endast det som särskiljer specialfallet programmeras i den specialiserade "underklassen". En underklass ärver egenskaper och funktionalitet av den överklass den tillhör.<br><br>
+
+* **Polymorfism**<br>
+I en grupp av underklasser finns funktionalitet som har yttre likheter mellan klasserna, men som måste programmeras på olika sätt beroende på vilken av underklasserna det gäller. Gränssnittet blir gemensamt för alla underklasserna, och definieras i överklassen, men den verkställande programkoden finns i respektive underklass. Ett visst objekt som använder andra objekt behöver ofta inte bry sig om vilket specialfall av objekt det är fråga om utan använder endast det gemensamma gränssnittet definierat av överklassen, och är okänsligt för mängden av specialfall som råkar finnas.
 
 ## 6. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
 
