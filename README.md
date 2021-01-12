@@ -48,9 +48,34 @@ Till exempel kan man uppleva VR med VR-glasögon som i realtid visar bilder av e
 Illusionen av verklighet i VR frammanas dels av den kroppsliga interaktionen med en virtuell modell, och dels av att ljus, ljud, rörelser med mera som simuleras av modellen känns igen från verkliga miljöer. De sensoriska upplevelserna (det vill säga för syn, känsel, hörsel och lukt) är i vissa fall tillräckliga för användning inom undervisning och träning av bland andra soldater, piloter och kirurger.
 
 ## 2. Sätta upp och gå igenom utvecklingsmiljöer <a name="development-environments"></a>
+
 ## 3. Grunderna i Unity och Unity Learning <a name="development-environments"></a>
+
 ## 4. Introduktion till programmeringsspråket C# <a name="c-sharp-introduction"></a>
+Unity använder sig utav programmeringsspråket C#.<br>
+C# uttalas "C-Sharp".<br>
+Det är ett objektorienterat programmeringsspråk skapat av Microsoft som körs på .NET Framework.<br>
+C# har rötter från C-familjen, och språket ligger nära andra populära språk som C ++ och Java.<br>
+Den första versionen släpptes år 2002. Den senaste versionen, C# 8 , släpptes i september 2019.<br>
+
+C# används för:
+
+* Mobila applikationer
+* Skrivbordsapplikationer
+* Webbapplikationer
+* webbservice
+* Webbplatser
+* Spel
+* VR
+* Databasapplikationer
+* Och mycket, mycket mer!
+
+<https://www.w3schools.com/cs/default.asp>
+<https://www.exercisescsharp.com/>
 ## 5. Object Orienterad Programmering med C# <a name="oop"></a>
+
 ## 6. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
+
 ## 7. Genomgå minikurser inom specialområde <a name="specialization-courses"></a>
+
 ## 8. Slutprojekt inom specialområde <a name="final-project"></a>
