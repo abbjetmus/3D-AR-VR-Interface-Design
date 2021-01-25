@@ -56,14 +56,14 @@ Du laddar då ner Unity Hub vilket är Unitys program- och projekthanterare. Det
 2. Följ den här länken för att installera Unity korrekt via Unity Hub:<br> 
 <https://learn.unity.com/tutorial/install-unity-and-the-hub?uv=2019.4&pathwayId=5f7bcab4edbc2a0023e9c38f&missionId=5f77cc6bedbc2a4a1dbddc46&projectId=5fa1b1a1edbc2a001f612a3d#>
 <br>
-![UnityHub](/Images/UnityHub.png?raw=true)
+![UnityHub](/Images/UnityHub.png)
 
 
 3. Installera Visual Studio Community, ladda ner Visual Studio Community från den här länken:
 <https://visualstudio.microsoft.com/vs/community/><br>
 
 4. Installera följande delar från Visual Studio Installer:<br>
-![Dot Net](/Images/Dot-Net.PNG?raw=true)
+![Dot Net](/Images/Dot-Net.PNG)
 <br>
 ![Visual Studio Unity](/Images/Visual-Studio-Unity.PNG)
 
