@@ -49,10 +49,22 @@ Illusionen av verklighet i VR frammanas dels av den kroppsliga interaktionen med
 
 ## 2. Sätta upp och gå igenom utvecklingsmiljöer <a name="development-environments"></a>
 
-1. Ladda ner Unity på den här länken: <https://store.unity.com/download-nuo><br>
-Klicka på knappen *Start here*.
+1. Ladda ner UnityHub på den här länken: <https://store.unity.com/download-nuo><br>
+Klicka på knappen *Start here*.<br>
+Du laddar då ner Unity Hub vilket är Unitys program- och projekthanterare. Det är via den vi installerar Unity editorn enligt steg 2.
 
-2. Följ den här länken för att installera Unity correct: <https://learn.unity.com/tutorial/install-unity-and-the-hub?uv=2019.4&pathwayId=5f7bcab4edbc2a0023e9c38f&missionId=5f77cc6bedbc2a4a1dbddc46&projectId=5fa1b1a1edbc2a001f612a3d#>
+2. Följ den här länken för att installera Unity korrekt via Unity Hub: <https://learn.unity.com/tutorial/install-unity-and-the-hub?uv=2019.4&pathwayId=5f7bcab4edbc2a0023e9c38f&missionId=5f77cc6bedbc2a4a1dbddc46&projectId=5fa1b1a1edbc2a001f612a3d#>
+
+![UnityHub](https://github.com/abbjetmus/3D-AR-VR-Interface-Design/blob/main/Images/UnityHub.png?raw=true)
+
+
+3. Installera Visual Studio Community, ladda ner Visual Studio Community från den här länken:
+<https://visualstudio.microsoft.com/vs/community/><br>
+
+4. Installera följande delar från Visual Studio Installer:
+![Dot Net](https://github.com/abbjetmus/3D-AR-VR-Interface-Design/blob/main/Images/Dot-Net.PNG?raw=true)
+
+![Visual Studio Unity](/Images/Visual-Studio-Unity.PNG)
 
 ## 3. Grunderna i Unity och Unity Learning <a name="development-environments"></a>
 
