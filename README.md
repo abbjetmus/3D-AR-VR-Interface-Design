@@ -49,6 +49,9 @@ Illusionen av verklighet i VR frammanas dels av den kroppsliga interaktionen med
 
 ## 2. Sätta upp och gå igenom utvecklingsmiljöer <a name="development-environments"></a>
 
+1. Ladda ner Unity på den här länken: <https://store.unity.com/download-nuo><br>
+Klicka på knappen *Start here*.
+
 ## 3. Grunderna i Unity och Unity Learning <a name="development-environments"></a>
 
 ## 4. Introduktion till programmeringsspråket C# <a name="c-sharp-introduction"></a>
