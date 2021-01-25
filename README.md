@@ -60,8 +60,9 @@ Du laddar då ner Unity Hub vilket är Unitys program- och projekthanterare. Det
 3. Installera Visual Studio Community, ladda ner Visual Studio Community från den här länken:
 <https://visualstudio.microsoft.com/vs/community/><br>
 
-4. Installera följande delar från Visual Studio Installer:<br>
+4. Installera följande delar från Visual Studio Installer, .NET Development och Unity utan UnityHub bocken:<br>
 ![Dot Net](/Images/Dot-Net.PNG)
+
 ![Visual Studio Unity](/Images/Visual-Studio-Unity.PNG)
 
 ## 3. Grunderna i Unity och Unity Learning <a name="development-environments"></a>
