@@ -13,10 +13,10 @@ Idag kan man använda Unity till att utveckla alla möjliga typer att upplevelse
 # Kursinnehåll
 1. [Introduktion till 3D, AR, VR och Unity (Vecka 2)](#unity-introduction)
 2. [Sätta upp och gå igenom utvecklingsmiljöer (Vecka 4)](#development-environments)
-5. [Introduktion till programmeringsspråket C# (Vecka 2-4)](#c-sharp-introduction)
-6. [Object Orienterad Programmering med C# (Vecka 2-4)](#oop)
-3. [Grunderna i Unity (Vecka 5-8)](#unity-basics)
-4. [Bygga ett valfritt 2D eller 3D Spel i Unity (Vecka 9-11)](#common-courses)
+3. [Introduktion till programmeringsspråket C# (Vecka 2-4)](#c-sharp-introduction)
+4. [Object Orienterad Programmering med C# (Vecka 2-4)](#oop)
+5. [Grunderna i Unity (Vecka 5-8)](#unity-basics)
+6. [Projekt: Bygga ett valfritt 2D eller 3D Spel i Unity (Vecka 9-11)](#common-courses)
 7. [Val av specialiseringsområde 3D Spel, AR eller VR](#unity-specialization)
 8. [Genomgå minikurser inom specialområde](#specialization-courses)
 9. [Slutprojekt inom specialområde](#final-project)
@@ -63,9 +63,7 @@ Du laddar då ner Unity Hub vilket är Unitys program- och projekthanterare. Det
 4. Installera följande delar från Visual Studio Installer, Unity utan UnityHub bocken:<br>
 ![Dot Net](/Images/Visual-Studio-Unity.PNG)
 
-## 3. Grunderna i Unity och Unity Learning <a name="development-environments"></a>
-
-## 4. Introduktion till programmeringsspråket C# <a name="c-sharp-introduction"></a>
+## 3. Introduktion till programmeringsspråket C# <a name="c-sharp-introduction"></a>
 Unity använder sig utav programmeringsspråket C#.<br>
 C# uttalas "C-Sharp".<br>
 Det är ett objektorienterat programmeringsspråk skapat av Microsoft som körs på .NET Framework.<br>
@@ -95,7 +93,7 @@ Och denna för övningsuppgifter:<br>
 Eftersom vi inte har fått upp våra utvecklingsmiljöer så kommer vi öva i en editor på nätet:<br>
 <https://dotnetfiddle.net/>
 
-## 5. Object Orienterad Programmering med C# <a name="oop"></a>
+## 4. Object Orienterad Programmering med C# <a name="oop"></a>
 Objektorienterad programmering betonar följande begrepp:
 
 * **Klass**<br> 
@@ -109,8 +107,14 @@ Klasserna och begreppen är inte oberoende av varandra, utan kan i många fall s
 * **Polymorfism**<br>
 I en grupp av underklasser finns funktionalitet som har yttre likheter mellan klasserna, men som måste programmeras på olika sätt beroende på vilken av underklasserna det gäller. Gränssnittet blir gemensamt för alla underklasserna, och definieras i överklassen, men den verkställande programkoden finns i respektive underklass. Ett visst objekt som använder andra objekt behöver ofta inte bry sig om vilket specialfall av objekt det är fråga om utan använder endast det gemensamma gränssnittet definierat av överklassen, och är okänsligt för mängden av specialfall som råkar finnas.
 
-## 6. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
+## 5. Grunderna i Unity (Vecka 5-8) <a name="development-environments"></a>
+Ni ska gå igenom hela den här tutorial serien fram till vecka 9.
+<https://www.studytonight.com/3d-game-engineering-with-unity/introduction-to-unity#>
 
-## 7. Genomgå minikurser inom specialområde <a name="specialization-courses"></a>
+## 6. Projekt: Bygga ett valfritt 2D eller 3D Spel i Unity (Vecka 9-11) <a name="common-courses"></a>
 
-## 8. Slutprojekt inom specialområde <a name="final-project"></a>
+## 7. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
+
+## 9. Genomgå minikurser inom specialområde <a name="specialization-courses"></a>
+
+## 10. Projekt: Slutprojekt bygga valfri applikation inom specialområde <a name="final-project"></a>
