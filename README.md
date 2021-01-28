@@ -11,12 +11,12 @@ Unity är för närvarande den mest populära spelmotorn som används av utveckl
 Idag kan man använda Unity till att utveckla alla möjliga typer att upplevelser, utöver spel kan man utveckla 3D visualiseringar, AR (Augmented Reality), VR (Virtual Reality) och filmer.
 
 # Kursinnehåll
-1. [Introduktion till 3D, AR, VR och Unity](#unity-introduction)
-2. [Sätta upp och gå igenom utvecklingsmiljöer](#development-environments)
-3. [Grunderna i Unity och Unity Learning](#unity-basics)
-4. [Gemensamma minikurser på Unity Learning](#common-courses)
-5. [Introduktion till programmeringsspråket C#](#c-sharp-introduction)
-6. [Object Orienterad Programmering med C#](#oop)
+1. [Introduktion till 3D, AR, VR och Unity (Vecka 2)](#unity-introduction)
+2. [Sätta upp och gå igenom utvecklingsmiljöer (Vecka 4)](#development-environments)
+5. [Introduktion till programmeringsspråket C# (Vecka 2-4)](#c-sharp-introduction)
+6. [Object Orienterad Programmering med C# (Vecka 2-4)](#oop)
+3. [Grunderna i Unity (Vecka 5-8)](#unity-basics)
+4. [Bygga ett valfritt 2D eller 3D Spel i Unity (Vecka 9-11)](#common-courses)
 7. [Val av specialiseringsområde 3D Spel, AR eller VR](#unity-specialization)
 8. [Genomgå minikurser inom specialområde](#specialization-courses)
 9. [Slutprojekt inom specialområde](#final-project)
