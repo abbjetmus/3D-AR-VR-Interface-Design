@@ -115,6 +115,6 @@ Ni ska gå igenom hela den här tutorial serien fram till vecka 9.
 
 ## 7. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
 
-## 9. Genomgå minikurser inom specialområde <a name="specialization-courses"></a>
+## 8. Genomgå minikurser inom specialområde <a name="specialization-courses"></a>
 
-## 10. Projekt: Slutprojekt bygga valfri applikation inom specialområde <a name="final-project"></a>
+## 9. Projekt: Slutprojekt bygga valfri applikation inom specialområde <a name="final-project"></a>
