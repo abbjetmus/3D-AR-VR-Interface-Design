@@ -108,10 +108,19 @@ Klasserna och begreppen är inte oberoende av varandra, utan kan i många fall s
 I en grupp av underklasser finns funktionalitet som har yttre likheter mellan klasserna, men som måste programmeras på olika sätt beroende på vilken av underklasserna det gäller. Gränssnittet blir gemensamt för alla underklasserna, och definieras i överklassen, men den verkställande programkoden finns i respektive underklass. Ett visst objekt som använder andra objekt behöver ofta inte bry sig om vilket specialfall av objekt det är fråga om utan använder endast det gemensamma gränssnittet definierat av överklassen, och är okänsligt för mängden av specialfall som råkar finnas.
 
 ## 5. Grunderna i Unity (Vecka 5-8) <a name="development-environments"></a>
-Ni ska gå igenom hela den här tutorial serien fram till vecka 9.
+Ni ska gå igenom hela den här tutorial serien fram till vecka 9.<br>
 <https://www.studytonight.com/3d-game-engineering-with-unity/introduction-to-unity#>
 
-## 6. Projekt: Bygga ett valfritt 2D eller 3D Spel i Unity (Vecka 9-11) <a name="common-courses"></a>
+Tills dess vill jag att ni väljer ut vilket 2D spel ni vill bygga.
+## 6. Projekt: Bygga ett valfritt 2D Spel i Unity (Vecka 9-11) <a name="common-courses"></a>
+Ni ska bygga det spelet som ni har valt till projektet. Deadline slutet av vecka 11.
+<br>
+Exempel spel:<br>
+* Flappy Bird
+* Space Shooter
+* Super Mario
+* Tetris
+* ...
 
 ## 7. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
 
