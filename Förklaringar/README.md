@@ -8,3 +8,6 @@ En prefab är en definition av ett gameObject som vi vill generera, och det prod
 Kommer du ihåg hur du lade Mr. Star till scenen redan när du började? Du drog spriten från assets till hierarchy.
 
 Att skapa en prefab är det motsatta av den processen. Du drar ett befintligt spelobjekt från hierarchy till assets. Unity genererar sedan en prefab av gameObject i den mapp du tog den till. Så eftersom vi vill skapa en mall för rutan drar vi bara rutan sprite från hierachy till vår Prefabs-mapp.
+
+## Parent and Child GameObjects
+Ett barn gameobjekt kan ha sin position i förhållande till sin förälder, inte spelvärlden. Det betyder att om du ställer in positionen på (0, 0, 0), kommer ett barnspelobjekt att placeras i det döda centrumet för det överordnade spelet Objekt, inte på skärmen.
