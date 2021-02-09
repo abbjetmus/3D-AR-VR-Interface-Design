@@ -8,7 +8,10 @@ Kolla på den här videon genom att klicka på bilden.<br>
 Vi kommer i huvudsak jobba i en spelmotor som heter Unity.
 Unity är för närvarande den mest populära spelmotorn som används av utvecklare runt om i världen - och med goda skäl. Den har ett kraftfullt visuellt gränssnitt för att skapa spel, utveckling av plattformar och ett aktivt bidragande community. Unity är en plattformsspelmotor som främst används för att utveckla videospel och simuleringar för PC, konsoler, mobila enheter och webbplatser. Den utvecklades av Unity Technologies och tillkännagavs först endast för OS X, vid Apples världsomfattande utvecklarkonferens år 2005, den har sedan dess utökats till nästan alla tillgängliga plattformar.
 
-Idag kan man använda Unity till att utveckla alla möjliga typer att upplevelser, utöver spel kan man utveckla 3D visualiseringar, AR (Augmented Reality), VR (Virtual Reality) och filmer.
+Idag kan man använda Unity till att utveckla alla möjliga typer att upplevelser, utöver spel kan man utveckla 3D visualiseringar, AR (Augmented Reality), VR (Virtual Reality) och filmer.<br>
+
+Intressant och bra tråd om hur man blir bra på Unity:<br>
+<https://forum.unity.com/threads/tips-for-studying-the-scripting-api.564385/>
 
 # Kursinnehåll
 1. [Introduktion till 3D, AR, VR och Unity (Vecka 2)](#unity-introduction)
