@@ -11,3 +11,11 @@ Att skapa en prefab är det motsatta av den processen. Du drar ett befintligt sp
 
 ## Parent and Child GameObjects
 Ett barn gameobjekt kan ha sin position i förhållande till sin förälder, inte spelvärlden. Det betyder att om du ställer in positionen på (0, 0, 0), kommer ett barnspelobjekt att placeras i det döda centrumet för det överordnade spelet Objekt, inte på skärmen.
+
+
+## Setup()
+
+## Update()
+
+## CollisionEnter2D()
+Det är en metod som avfyras (kallas) av Unity när den upptäcker en kollision mellan objektet som detta skript är fäst vid och något annat gameObject.
