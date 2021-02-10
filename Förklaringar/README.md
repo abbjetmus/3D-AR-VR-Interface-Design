@@ -1,6 +1,10 @@
 ## RigidBody
 Allt i fysikvärlden som ska flytta kommer att behöva en Rigidbody. En Rigidbody tar hand om alla slags saker som hastighet och tyngdkraft, men för närvarande räcker det med att komma ihåg att allt fysiskt som rör sig genom spelvärlden behöver en Rigidbody.
 
+* Gravity Scale: 0 (förhindrar att racketen faller utanför gränserna)
+* Collection Detection: Continues (förhindrar fel där bollen kan klämma igenom racketen på grund av Physics 2D-egenskaper)
+* Freeze Rotation på Z-axeln: detta gör att objektet fryser sin vinkel dvs rotation i z-axel.
+
 ## Prefabs
 En **Prefab** är en ritning eller en mall för ett specifikt gameObject.
 Vad händer om vi skulle kunna definiera en enda fiende och få något att generera kopior av den fienden, eftersom de är desamma? Prefabs är det som löser exakt det.
