@@ -1,3 +1,6 @@
+## RigidBody
+Allt i fysikvärlden som ska flytta kommer att behöva en Rigidbody. A Rigidbody tar hand om alla slags saker som hastighet och tyngdkraft, men för närvarande räcker det med att komma ihåg att allt fysiskt som rör sig genom spelvärlden behöver en Rigidbody.
+
 ## Prefabs
 En **Prefab** är en ritning eller en mall för ett specifikt gameObject.
 Vad händer om vi skulle kunna definiera en enda fiende och få något att generera kopior av den fienden, eftersom de är desamma? Prefabs är det som löser exakt det.
