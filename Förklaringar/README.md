@@ -1,5 +1,5 @@
 ## RigidBody
-Allt i fysikvärlden som ska flytta kommer att behöva en Rigidbody. A Rigidbody tar hand om alla slags saker som hastighet och tyngdkraft, men för närvarande räcker det med att komma ihåg att allt fysiskt som rör sig genom spelvärlden behöver en Rigidbody.
+Allt i fysikvärlden som ska flytta kommer att behöva en Rigidbody. En Rigidbody tar hand om alla slags saker som hastighet och tyngdkraft, men för närvarande räcker det med att komma ihåg att allt fysiskt som rör sig genom spelvärlden behöver en Rigidbody.
 
 ## Prefabs
 En **Prefab** är en ritning eller en mall för ett specifikt gameObject.
