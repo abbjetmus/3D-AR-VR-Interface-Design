@@ -116,7 +116,7 @@ Ni ska gå igenom hela den här tutorial serien fram till vecka 9.<br>
 
 Tills dess vill jag att ni väljer ut vilket 2D spel ni vill bygga.
 ## 6. Projekt: Bygga ett valfritt 2D Spel i Unity (Vecka 9-11) <a name="common-courses"></a>
-Ni ska bygga det spelet som ni har valt till projektet. Deadline slutet av vecka 11.
+Ni ska bygga det spelet som ni har valt till projektet. Deadline vecka 8 torsdag kväll 25/2.
 <br>
 Bra sida med tutorials av 2D spel: <https://noobtuts.com/unity>
 <br>
