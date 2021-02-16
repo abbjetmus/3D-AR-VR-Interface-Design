@@ -19,7 +19,7 @@ Intressant och bra tråd om hur man blir bra på Unity:<br>
 3. [Introduktion till programmeringsspråket C# (Vecka 2-4)](#c-sharp-introduction)
 4. [Object Orienterad Programmering med C# (Vecka 2-4)](#oop)
 5. [Grunderna i Unity (Vecka 5-8)](#unity-basics)
-6. [Projekt: Bygga ett valfritt 2D eller 3D Spel i Unity (Vecka 9-11)](#common-courses)
+6. [Projekt: Bygga ett valfritt 2D eller 3D Spel i Unity (Vecka 5-8)](#common-courses)
 7. [Val av specialiseringsområde 3D Spel, AR eller VR](#unity-specialization)
 8. [Genomgå minikurser inom specialområde](#specialization-courses)
 9. [Slutprojekt inom specialområde](#final-project)
@@ -115,7 +115,7 @@ Ni ska gå igenom hela den här tutorial serien fram till vecka 9.<br>
 <https://www.studytonight.com/3d-game-engineering-with-unity/introduction-to-unity#>
 
 Tills dess vill jag att ni väljer ut vilket 2D spel ni vill bygga.
-## 6. Projekt: Bygga ett valfritt 2D Spel i Unity (Vecka 9-11) <a name="common-courses"></a>
+## 6. Projekt: Bygga ett valfritt 2D Spel i Unity (Vecka 5-8) <a name="common-courses"></a>
 Ni ska bygga det spelet som ni har valt till projektet. Deadline vecka 8 torsdag kväll 25/2.
 <br>
 Bra sida med tutorials av 2D spel: <https://noobtuts.com/unity>
