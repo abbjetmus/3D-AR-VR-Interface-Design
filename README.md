@@ -130,7 +130,12 @@ Exempel spel:<br>
 
 ## 7. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
 Vill du lära dig VR - Virtual Reality så ska du gå igenom det här materialet via Unity Learn:
+Vill du utveckla för Oculus:<br>
 <https://learn.unity.com/course/oculus-vr>
+<br>
+Vill du uteckla för mobiltelefon:
+<https://www.edx.org/course/creating-virtual-reality-vr-apps-2>
+
 <br><br>
 Vill du lära dig AR - Augmented Reality så ska du gå igenom det här materialet via Unity Learn:
 
