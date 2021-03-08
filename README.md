@@ -129,16 +129,31 @@ Exempel spel:<br>
 * ...
 
 ## 7. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
-Vill du lära dig VR - Virtual Reality så ska du gå igenom det här materialet via Unity Learn:
-Vill du utveckla för Oculus:<br>
-<https://learn.unity.com/course/oculus-vr>
-<br>
-Vill du uteckla för mobiltelefon:
-<https://www.edx.org/course/creating-virtual-reality-vr-apps-2>
+**Börja med att läsa den här artikeln:**<br>
+<https://blogs.unity3d.com/2020/05/01/learn-to-create-ar-and-vr-apps-with-unity/>
 
+**Vill du lära dig VR**
+Du ska gå igenom den här kursen för att lära dig allmänt om VR och hur man bygger VR appar:
+<https://www.edx.org/course/creating-virtual-reality-vr-apps-2><br>
+
+Sedan så ska du följa något av dessa spår för att lära dig om ett område som du är intresserad utav och bygga slutprojekt inom:<br>
+ 
+1. Vill du utveckla för Oculus Rift:<br>
+<https://learn.unity.com/course/oculus-vr><br>
+
+2. Vill du utveckla för bilindustri:<br>
+<https://learn.unity.com/course/design-visualization-for-automotive>
+
+3. Vill du utveckla arkitekturer för byggnader:
+<https://learn.unity.com/course/unity-photorealistic-architecture-pre-visualization><br>
+
+4. Vill du utveckla mot bygg och konstruktionsbranchen:<br>
+<https://learn.unity.com/course/build-a-full-construction-site-tour><br>
 <br><br>
-Vill du lära dig AR - Augmented Reality så ska du gå igenom det här materialet via Unity Learn:
 
+
+Vill du lära dig AR - Augmented Reality så ska du gå igenom det här materialet via Unity Learn:
+1.
 
 Vill du ha ett snabbare spår för att bygga ett AR projekt följ den här tutorialen:
 <https://vrgamedevelopment.pro/how-to-create-an-augmented-reality-app-in-unity/>
