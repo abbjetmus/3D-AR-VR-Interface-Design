@@ -132,11 +132,11 @@ Exempel spel:<br>
 **Börja med att läsa den här artikeln:**<br>
 <https://blogs.unity3d.com/2020/05/01/learn-to-create-ar-and-vr-apps-with-unity/>
 
-**Vill du lära dig VR**
+**Vill du lära dig VR**<br>
 Du ska gå igenom den här kursen för att lära dig allmänt om VR och hur man bygger VR appar:
 <https://www.edx.org/course/creating-virtual-reality-vr-apps-2><br>
 
-Sedan så ska du följa något av dessa spår för att lära dig om ett område som du är intresserad utav och bygga slutprojekt inom:<br>
+Sedan så ska du följa något av dessa spår för att lära dig om VR för ett område som du är intresserad utav som kommer ligga till grund för ditt slutprojekt:<br>
  
 1. Vill du utveckla för Oculus Rift:<br>
 <https://learn.unity.com/course/oculus-vr><br>
@@ -151,9 +151,11 @@ Sedan så ska du följa något av dessa spår för att lära dig om ett område 
 <https://learn.unity.com/course/build-a-full-construction-site-tour><br>
 <br><br>
 
+**Vill du lära dig AR**<br> 
+Augmented Reality så ska du gå igenom det här materialet via Unity Learn:
 
-Vill du lära dig AR - Augmented Reality så ska du gå igenom det här materialet via Unity Learn:
-1.
+1. Vill du utveckla marknadsförings applikationer i AR:<br>
+<https://learn.unity.com/course/ar-marketing-with-ios-and-android?tab=overview>
 
 Vill du ha ett snabbare spår för att bygga ett AR projekt följ den här tutorialen:
 <https://vrgamedevelopment.pro/how-to-create-an-augmented-reality-app-in-unity/>
