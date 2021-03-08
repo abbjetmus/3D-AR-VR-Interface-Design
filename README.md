@@ -21,8 +21,7 @@ Intressant och bra tråd om hur man blir bra på Unity:<br>
 5. [Grunderna i Unity (Vecka 5-8)](#unity-basics)
 6. [Projekt: Bygga ett valfritt 2D eller 3D Spel i Unity (Vecka 5-8)](#common-courses)
 7. [Val av specialiseringsområde 3D Spel, AR eller VR](#unity-specialization)
-8. [Genomgå minikurser inom specialområde](#specialization-courses)
-9. [Slutprojekt inom specialområde](#final-project)
+8. [Slutprojekt inom specialområde](#final-project)
 
 
 ## 1.Introduktion till 3D, AR, VR och Unity <a name="unity-introduction"></a>
@@ -152,13 +151,11 @@ Sedan så ska du följa något av dessa spår för att lära dig om VR för ett 
 <br><br>
 
 **Vill du lära dig AR**<br> 
-Augmented Reality så ska du gå igenom det här materialet via Unity Learn:
+Du ska gå igenom den här kursen för att lära dig allmänt om AR och hur man bygger AR appar:<br>
+<https://www.coursera.org/learn/ar?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-ayukwDyaixBNg_DaWHsobQ&siteID=vedj0cWlu2Y-ayukwDyaixBNg_DaWHsobQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y>
 
-1. Vill du utveckla marknadsförings applikationer i AR:<br>
-<https://learn.unity.com/course/ar-marketing-with-ios-and-android?tab=overview>
 
 Vill du ha ett snabbare spår för att bygga ett AR projekt följ den här tutorialen:
 <https://vrgamedevelopment.pro/how-to-create-an-augmented-reality-app-in-unity/>
-## 8. Genomgå minikurser inom specialområde <a name="specialization-courses"></a>
 
-## 9. Projekt: Slutprojekt bygga valfri applikation inom specialområde <a name="final-project"></a>
+## 8. Projekt: Slutprojekt bygga valfri applikation inom specialområde <a name="final-project"></a>
