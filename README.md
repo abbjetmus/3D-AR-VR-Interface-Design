@@ -129,9 +129,11 @@ Exempel spel:<br>
 
 ## 7. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
 **Börja med att läsa den här artikeln:**<br>
-<https://blogs.unity3d.com/2020/05/01/learn-to-create-ar-and-vr-apps-with-unity/>
+<https://blogs.unity3d.com/2020/05/01/learn-to-create-ar-and-vr-apps-with-unity/><br>
+**Bra Sida för AR, VR, XR och Unity**<br>
+<https://vrgamedevelopment.pro/><br>
 
-**Vill du lära dig VR**<br>
+### Vill du lära dig VR
 Du ska gå igenom den här kursen för att lära dig allmänt om VR och hur man bygger VR appar:
 <https://www.edx.org/course/creating-virtual-reality-vr-apps-2><br>
 
@@ -150,15 +152,19 @@ Sedan så ska du följa något av dessa spår för att lära dig om VR för ett 
 <https://learn.unity.com/course/build-a-full-construction-site-tour><br>
 <br><br>
 
-**Komma igång snabbt med VR**
-<https://developers.google.com/vr/develop/unity/get-started-android>
+**Komma igång snabbt med VR**<br>
+<https://developers.google.com/vr/develop/unity/get-started-android><br>
 
-**Vill du lära dig AR**<br> 
+### Vill du lära dig AR
 Du ska gå igenom den här kursen för att lära dig allmänt om AR och hur man bygger AR appar:<br>
 <https://www.coursera.org/learn/ar?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-ayukwDyaixBNg_DaWHsobQ&siteID=vedj0cWlu2Y-ayukwDyaixBNg_DaWHsobQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y>
-
-
-Vill du ha ett snabbare spår för att bygga ett AR projekt följ den här tutorialen:
+<br>
+Vill du testa bygga ett AR projekt direkt testa följ den här tutorialen:<br>
 <https://vrgamedevelopment.pro/how-to-create-an-augmented-reality-app-in-unity/>
 
 ## 8. Projekt: Slutprojekt bygga valfri applikation inom specialområde <a name="final-project"></a>
+Efter att ni har valt specialiceringsområde och genomgått en av kurserna ovan.
+Så ska ni bygga ett slutprojekt. 
+Vi kommer dela in er i grupper med 3 elever i varje grupp, där alla i gruppen valt samma specialiseringsområde.
+Därefter kommer ni få brainstorma vad ni vill bygga som slutprojekt och implementera det.
+
