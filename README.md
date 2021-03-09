@@ -136,7 +136,7 @@ Nästa steg i kursen är att ta det vi har lärt oss när vi utvecklat 2D-Spel o
 <https://vrgamedevelopment.pro/><br>
 
 ### Vill du lära dig VR
-Du ska gå igenom den här kursen för att lära dig allmänt om VR och hur man bygger VR appar:
+Du **ska/måste** gå igenom den här kursen för att lära dig allmänt om VR och hur man bygger VR appar:<br>
 <https://www.edx.org/course/creating-virtual-reality-vr-apps-2><br>
 
 Kan du inte få nog av VR så kan man genomgå även någon av dess:<br>
@@ -158,7 +158,7 @@ Kan du inte få nog av VR så kan man genomgå även någon av dess:<br>
 <https://developers.google.com/vr/develop/unity/get-started-android><br>
 
 ### Vill du lära dig AR
-Du ska gå igenom den här kursen för att lära dig allmänt om AR och hur man bygger AR appar:<br>
+Du **ska/måste** gå igenom den här kursen för att lära dig allmänt om AR och hur man bygger AR appar:<br>
 <https://www.coursera.org/learn/ar?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-ayukwDyaixBNg_DaWHsobQ&siteID=vedj0cWlu2Y-ayukwDyaixBNg_DaWHsobQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y>
 <br><br>
 Vill du testa bygga ett AR projekt direkt testa följ den här tutorialen:<br>
