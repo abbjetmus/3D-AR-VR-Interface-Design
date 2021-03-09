@@ -128,6 +128,8 @@ Exempel spel:<br>
 * ...
 
 ## 7. Val av specialiseringsområde 3D Spel, AR eller VR <a name="unity-specialization"></a>
+Nästa steg i kursen är att ta det vi har lärt oss när vi utvecklat 2D-Spel och bygga vidare för att utveckla mer avancerade applikationer iform av 3D-Spel, Augmented Reality och Virtuell Reality. Ni har valfriheten att själva välja vilket område ni vill lära er mer om, och här nedan finns resurserna som ni har tillgodo.
+
 **Börja med att läsa den här artikeln:**<br>
 <https://blogs.unity3d.com/2020/05/01/learn-to-create-ar-and-vr-apps-with-unity/><br>
 **Bra Sida för AR, VR, XR och Unity**<br>
