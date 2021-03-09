@@ -164,6 +164,10 @@ Du **ska/måste** gå igenom den här kursen för att lära dig allmänt om AR o
 Vill du testa bygga ett AR projekt direkt testa följ den här tutorialen:<br>
 <https://vrgamedevelopment.pro/how-to-create-an-augmented-reality-app-in-unity/>
 
+### Vill du lära dig 3D-Spel
+Du **ska/måste** gå igenom den här kursen för att lära dig allmänt om 3D-Spel:<br>
+<https://learn.unity.com/course/beginning-3d-game-development>
+
 ## 8. Projekt: Slutprojekt bygga valfri applikation inom specialområde <a name="final-project"></a>
 Efter att ni har valt specialiceringsområde och genomgått en av kurserna ovan.
 Så ska ni bygga ett slutprojekt. 
