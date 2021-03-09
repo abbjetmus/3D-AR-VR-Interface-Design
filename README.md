@@ -139,7 +139,7 @@ Nästa steg i kursen är att ta det vi har lärt oss när vi utvecklat 2D-Spel o
 Du ska gå igenom den här kursen för att lära dig allmänt om VR och hur man bygger VR appar:
 <https://www.edx.org/course/creating-virtual-reality-vr-apps-2><br>
 
-Sedan så ska du följa något av dessa spår för att lära dig om VR för ett område som du är intresserad utav som kommer ligga till grund för ditt slutprojekt:<br>
+Kan du inte få nog av VR så kan man genomgå även någon av dess:<br>
  
 1. Vill du utveckla för Oculus Rift:<br>
 <https://learn.unity.com/course/oculus-vr><br>
@@ -152,7 +152,7 @@ Sedan så ska du följa något av dessa spår för att lära dig om VR för ett 
 
 4. Vill du utveckla mot bygg och konstruktionsbranchen:<br>
 <https://learn.unity.com/course/build-a-full-construction-site-tour><br>
-<br><br>
+<br>
 
 **Komma igång snabbt med VR**<br>
 <https://developers.google.com/vr/develop/unity/get-started-android><br>
@@ -160,7 +160,7 @@ Sedan så ska du följa något av dessa spår för att lära dig om VR för ett 
 ### Vill du lära dig AR
 Du ska gå igenom den här kursen för att lära dig allmänt om AR och hur man bygger AR appar:<br>
 <https://www.coursera.org/learn/ar?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-ayukwDyaixBNg_DaWHsobQ&siteID=vedj0cWlu2Y-ayukwDyaixBNg_DaWHsobQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y>
-<br>
+<br><br>
 Vill du testa bygga ett AR projekt direkt testa följ den här tutorialen:<br>
 <https://vrgamedevelopment.pro/how-to-create-an-augmented-reality-app-in-unity/>
 
