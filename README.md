@@ -166,7 +166,10 @@ Vill du testa bygga ett AR projekt direkt testa följ den här tutorialen:<br>
 
 ### Vill du lära dig 3D-Spel
 Du **ska/måste** gå igenom den här kursen för att lära dig allmänt om 3D-Spel:<br>
-<https://learn.unity.com/course/beginning-3d-game-development>
+<https://learn.unity.com/course/beginning-3d-game-development><br>
+
+Kolla sedan på resurserna på den här sidan:<br>
+<https://conceptartempire.com/unity-3d-tutorials>
 
 ## 8. Projekt: Slutprojekt bygga valfri applikation inom specialområde <a name="final-project"></a>
 Efter att ni har valt specialiceringsområde och genomgått en av kurserna ovan.
