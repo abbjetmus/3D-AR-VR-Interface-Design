@@ -135,6 +135,8 @@ Nästa steg i kursen är att ta det vi har lärt oss när vi utvecklat 2D-Spel o
 **Bra Sida för AR, VR, XR och Unity**<br>
 <https://vrgamedevelopment.pro/><br>
 
+<https://craftgames.co/unity-3d-fps-movement/#Setting_up_FPS_character>
+
 ### Vill du lära dig VR
 Du **ska/måste** gå igenom den här kursen för att lära dig allmänt om VR och hur man bygger VR appar:<br>
 <https://www.edx.org/course/creating-virtual-reality-vr-apps-2><br>
