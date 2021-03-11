@@ -173,6 +173,11 @@ Du **ska/måste** gå igenom den här kursen för att lära dig allmänt om 3D-S
 Kolla sedan på resurserna på den här sidan:<br>
 <https://conceptartempire.com/unity-3d-tutorials>
 
+<br>
+<https://learn.unity.com/tutorial/let-s-try-shooting-with-raycasts><br>
+<https://craftgames.co/unity-3d-fps-movement/#Setting_up_FPS_character><br>
+<><br>
+
 ## 8. Projekt: Slutprojekt bygga valfri applikation inom specialområde <a name="final-project"></a>
 Efter att ni har valt specialiceringsområde och genomgått en av kurserna ovan.
 Så ska ni bygga ett slutprojekt. 
