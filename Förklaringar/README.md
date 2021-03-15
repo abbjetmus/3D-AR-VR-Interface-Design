@@ -26,3 +26,12 @@ Ett barn gameobjekt kan ha sin position i förhållande till sin förälder, int
 
 ## CollisionEnter2D()
 Det är en metod som avfyras (kallas) av Unity när den upptäcker en kollision mellan objektet som detta skript är fäst vid och något annat gameObject.
+
+## Fysiksimulering
+### Gravitation
+
+### Rörelse
+
+### Rörelsemängd
+
+### Friction
