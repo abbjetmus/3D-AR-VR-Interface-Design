@@ -34,4 +34,10 @@ Det är en metod som avfyras (kallas) av Unity när den upptäcker en kollision 
 
 ### Rörelsemängd
 
-### Friction
+### Friktion
+
+## Objekt egenskaper
+### Massa
+### Hastighet
+Hastigheten kan vara linjär längs en axel, men kan också inkludera rotation medan objektet rör sig som när man kastar en boll.
+### Friktion
