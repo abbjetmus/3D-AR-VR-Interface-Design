@@ -3,7 +3,7 @@
 Välkommen till kursen Gränsnittsdesign där vi kommer få lära oss att bygga användarupplevelser på den allra tekniska framkanten med hjälp av Unity.<br><br>
 Kolla på den här videon genom att klicka på bilden.<br>
 
-<https://www.youtube.com/watch?v=CPD_nRLDN7g>
+<https://www.youtube.com/watch?v=AUEyug7u-M4&list=PLDE83B6C26F7F4CA2>
 
 Vi kommer i huvudsak jobba i en spelmotor som heter Unity.
 Unity är för närvarande den mest populära spelmotorn som används av utvecklare runt om i världen - och med goda skäl. Den har ett kraftfullt visuellt gränssnitt för att skapa spel, utveckling av plattformar och ett aktivt bidragande community. Unity är en plattformsspelmotor som främst används för att utveckla videospel och simuleringar för PC, konsoler, mobila enheter och webbplatser. Den utvecklades av Unity Technologies och tillkännagavs först endast för OS X, vid Apples världsomfattande utvecklarkonferens år 2005, den har sedan dess utökats till nästan alla tillgängliga plattformar.
