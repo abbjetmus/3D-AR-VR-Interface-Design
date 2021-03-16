@@ -68,7 +68,7 @@ Du laddar då ner Unity Hub vilket är Unitys program- och projekthanterare. Det
 ![Dot Net](/Images/Visual-Studio-Unity.PNG)
 
 ## 2.1 Använda Visual Studio Code som programmeringseditor
-1. 
+1. Öppna Unity Hub och klicka på settings.
 
 ## 3. Introduktion till programmeringsspråket C# <a name="c-sharp-introduction"></a>
 Unity använder sig utav programmeringsspråket C#.<br>
