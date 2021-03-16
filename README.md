@@ -67,6 +67,9 @@ Du laddar då ner Unity Hub vilket är Unitys program- och projekthanterare. Det
 4. Installera följande delar från Visual Studio Installer, Unity utan UnityHub bocken:<br>
 ![Dot Net](/Images/Visual-Studio-Unity.PNG)
 
+## 2.1 Använda Visual Studio Code som programmeringseditor
+1. 
+
 ## 3. Introduktion till programmeringsspråket C# <a name="c-sharp-introduction"></a>
 Unity använder sig utav programmeringsspråket C#.<br>
 C# uttalas "C-Sharp".<br>
